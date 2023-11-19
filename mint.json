@@ -32,17 +32,45 @@
     }
   ],
   "navigation": [
-    {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+    { 
+      "group": "Introduction",
+      "pages": ["introduction/overview","introduction/purpose","introduction/keyfeature"]
     },
-    {
-      "group": "Essentials",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
+    { 
+      "group": "Getting Started",
+      "pages": ["gettingstarted/gettingstarted","gettingstarted/embedding","gettingstarted/requirements"]
     },
-    {
-      "group": "API Documentation",
-      "pages": ["api-reference/introduction"]
+    { 
+      "group": "User Guide",
+      "pages": ["userguide/howtouse","userguide/feature","userguide/usecase"]
+    },
+    { 
+      "group": "Technical Specification",
+      "pages": ["technicalspecification/technicalinfo","technicalspecification/specification"]
+    },
+    { 
+      "group": "Troubleshooting",
+      "pages": ["troubleshooting/userqueries","troubleshooting/commonissue"]
+    },
+    { 
+      "group": "Best Practices",
+      "pages": ["bestpractices/suggestions","bestpractices/tipsandtricks"]
+    },
+    { 
+      "group": "Security and Privacy",
+      "pages": ["securityandprivacy/information","securityandprivacy/protectinguserinfo"]
+    },
+    { 
+      "group": "Support",
+      "pages": ["support/customersupport","support/supportresources"]
+    },
+    { 
+      "group": "Version history",
+      "pages": ["versionhistory/index"]
+    },
+    { 
+      "group": "Compliance information",
+      "pages": ["compliance/termsofservice","compliance/privacypolicy"]
     },
     {
       "group": "Endpoint Examples",
